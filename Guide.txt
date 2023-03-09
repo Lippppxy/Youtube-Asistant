@@ -1,7 +1,7 @@
 Install Dulu Library Nya
-py install speechrecognition
-py install pywhatkit
-py install pyttsx3
+pip install speechrecognition
+pip install pywhatkit
+pip install pyttsx3
 
 
 Credit to Allep
